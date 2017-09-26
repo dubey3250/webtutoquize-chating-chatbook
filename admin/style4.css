@@ -1,0 +1,14 @@
+body
+{
+background:-webkit-linear-gradient(lightblue 18%,lightblue 88%);
+}
+#outer
+{
+opacity:0.5;
+margin-top:200px;
+//margin-left:400px;
+height:350px;
+width:500px;
+//border:1px solid;
+background:-webkit-linear-gradient(lightblue ,silver, lightblue);
+}

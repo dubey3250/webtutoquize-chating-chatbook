@@ -1,0 +1,33 @@
+body
+{
+//background-image:url('img/Windows-10-background.jpg');
+background:-webkit-linear-gradient(pink,white,pink);
+background-repeat:no-repeat;
+background-size:cover;
+
+}
+#mn
+{
+	height:700px;
+	width:1200px;
+}
+#outer
+{
+//transform:rotate(30deg);
+margin-top:120px;
+border-radius:80px 0px 80px 0px;
+height:400px;
+width:650px;
+//border:1px solid;
+background-image:url('img/6830616-background-pictures.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+opacity:0.8;
+float:left;
+}
+#outer1
+{
+float:right;
+	height:700px;
+	width:400px;
+}
